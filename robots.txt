@@ -1,0 +1,3 @@
+# Shared by link, not for search engines.
+User-agent: *
+Disallow: /
